@@ -7,3 +7,4 @@
 diygod/rsshub:chromium-bundled
 b3log/siyuan
 freshrss/freshrss
+homeassistant/home-assistant
