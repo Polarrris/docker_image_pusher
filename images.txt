@@ -8,4 +8,5 @@ diygod/rsshub:chromium-bundled
 b3log/siyuan
 freshrss/freshrss
 homeassistant/home-assistant
-suling/openwrt:x86_64
+suling/openwrt
+mysql/mysql
