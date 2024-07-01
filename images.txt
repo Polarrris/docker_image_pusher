@@ -10,3 +10,4 @@ freshrss/freshrss
 homeassistant/home-assistant
 mysql
 openwrt/openwrt
+vdsm/virtual-dsm
