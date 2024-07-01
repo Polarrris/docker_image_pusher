@@ -11,3 +11,4 @@ homeassistant/home-assistant
 mysql
 openwrt/rootfs:x86_64
 vdsm/virtual-dsm
+nyanmisaka/jellyfin
