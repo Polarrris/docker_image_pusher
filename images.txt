@@ -9,5 +9,5 @@ b3log/siyuan
 freshrss/freshrss
 homeassistant/home-assistant
 mysql
-openwrt/openwrt
+openwrt/rootfs
 vdsm/virtual-dsm
