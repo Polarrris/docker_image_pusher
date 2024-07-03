@@ -9,6 +9,6 @@ b3log/siyuan
 freshrss/freshrss
 homeassistant/home-assistant
 mysql
-sulinggg/openwrt:x86_64
+crazygit/lean-openwrt-x86-64
 vdsm/virtual-dsm
 nyanmisaka/jellyfin
