@@ -4,16 +4,19 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+linuxserver/transmission
+linuxserver/qbittorrent
 redis
-minio/minio
+#minio/minio
 nextcloud
 apkdv/siyuan-unlock
-jlesage/firefox
+#jlesage/firefox
 nginx
 diygod/rsshub:chromium-bundled
-b3log/siyuan
+#b3log/siyuan
 freshrss/freshrss
 homeassistant/home-assistant
 mysql
 #vdsm/virtual-dsm
 nyanmisaka/jellyfin
+
