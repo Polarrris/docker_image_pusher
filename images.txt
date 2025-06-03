@@ -4,6 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+certbot/dns-aliyun
+nginx
 crocodilestick/calibre-web-automated
 --platform=linux/amd64 xhofe/alist:latest-aio
 ghcr.io/immich-app/immich-server:release
@@ -16,7 +18,6 @@ diygod/rsshub:chromium-bundled
 johngong/baidunetdisk
 nocodb/nocodb
 apkdv/siyuan-unlock
-nginx
 mysql
 #redis
 #dreamacro/clash-premium
