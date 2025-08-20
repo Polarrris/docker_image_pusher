@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+loudflare/cloudflared
 pan93412/unblock-netease-music-enhanced
 #jiangrui1994/cloudsaver
 ghcr.io/immich-app/immich-machine-learning:release-openvino
