@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 
 #支持指定架构
+diygod/rsshub:chromium-bundled
 --platform=linux/arm64 diygod/rsshub:chromium-bundled
 jellyfin/jellyfin
 ghcr.io/immich-app/immich-machine-learning:release-openvino
