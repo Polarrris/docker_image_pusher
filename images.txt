@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 
 #支持指定架构
+pgvector/pgvector:pg16
 redis:7-alpine
 postgres:16
 docker.n8n.io/n8nio/n8n
