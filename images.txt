@@ -5,6 +5,8 @@
 #xhofe/alist:latest
 
 #支持指定架构
+litellm:main-latest
+
 pgvector/pgvector:pg16
 redis:7-alpine
 postgres:16
