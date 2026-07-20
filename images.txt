@@ -6,6 +6,7 @@
 
 
 #支持指定架构
+kavita
 deluan/navidrome
 ghcr.io/joeru/claw2immich
 lscr.io/linuxserver/syncthing
