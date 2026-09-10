@@ -21,6 +21,7 @@ ghcr.io/immich-app/postgres:14-vectorchord0.3.0-pgvectors0.2.0@sha256:fa4f6e0971
 
 freshrss/freshrss
 johngong/baidunetdisk
+ghcr.io/open-webui/open-webui
 
 #ghcr.io/joeru/claw2immich
 
