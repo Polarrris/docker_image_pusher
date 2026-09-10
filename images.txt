@@ -2,18 +2,17 @@
 #支持私库
 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-
+#xhofe/plist:latest
 #支持指定架构
+
 jvmilazz0/kavita
 deluan/navidrome
-ghcr.io/joeru/claw2immich
 lscr.io/linuxserver/syncthing
-ghcr.io/berriai/litellm:main-latest
-pgvector/pgvector:pg16
-redis:7-alpine
-postgres:16
-docker.n8n.io/n8nio/n8n
+#ghcr.io/berriai/litellm:main-latest
+#pgvector/pgvector:pg16
+#redis:7-alpine
+#postgres:16
+#docker.n8n.io/n8nio/n8n
 jellyfin/jellyfin
 ghcr.io/immich-app/immich-machine-learning:release-openvino
 ghcr.io/immich-app/immich-server:release
@@ -22,6 +21,8 @@ ghcr.io/immich-app/postgres:14-vectorchord0.3.0-pgvectors0.2.0@sha256:fa4f6e0971
 
 freshrss/freshrss
 johngong/baidunetdisk
+
+#ghcr.io/joeru/claw2immich
 
 #diygod/rsshub:chromium-bundled
 #--platform=linux/arm64 diygod/rsshub:chromium-bundled
