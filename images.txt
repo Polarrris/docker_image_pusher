@@ -44,7 +44,7 @@ ghcr.io/open-webui/open-webui
 #pan93412/unblock-netease-music-enhanced
 #jiangrui1994/cloudsaver
 #nocodb/nocodb
-#mysql
+mysql
 #redis
 #dreamacro/clash-premium
 #ghcr.io/haishanh/yacd:master
@@ -57,3 +57,4 @@ ghcr.io/open-webui/open-webui
 #b3log/siyuan
 #homeassistant/home-assistant
 #vdsm/virtual-dsm
+mysql
